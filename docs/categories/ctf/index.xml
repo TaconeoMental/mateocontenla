@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ctf on </title>
-    <link>https://taconeomental.github.io/mateocontenla/categories/ctf/</link>
+    <link>https://mateocontenla.js.org/categories/ctf/</link>
     <description>Recent content in ctf on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-CL</language>
-    <lastBuildDate>Sun, 11 Oct 2020 01:39:09 -0300</lastBuildDate><atom:link href="https://taconeomental.github.io/mateocontenla/categories/ctf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Oct 2020 01:39:09 -0300</lastBuildDate><atom:link href="https://mateocontenla.js.org/categories/ctf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reply Cyber Security Challenge 2020 Write-ups</title>
-      <link>https://taconeomental.github.io/mateocontenla/post/reply-ctf-2020/</link>
+      <link>https://mateocontenla.js.org/post/reply-ctf-2020/</link>
       <pubDate>Sun, 11 Oct 2020 01:39:09 -0300</pubDate>
       
-      <guid>https://taconeomental.github.io/mateocontenla/post/reply-ctf-2020/</guid>
+      <guid>https://mateocontenla.js.org/post/reply-ctf-2020/</guid>
       <description>A few days ago on 09/10/2020 Reply held yet another Cyber Security challenge on their site. It was a jeopardy style CTF with 25 flags spread across 5 different categories and 24 hours to find them.
 The prizes for the competition looked great so my team and I registered immediately hoping for the best. We had seen past challenges that they&amp;rsquo;d organized and our hopes were really high.
 Anyway, this is my write-up for the challenges I managed to complete during the competition.</description>

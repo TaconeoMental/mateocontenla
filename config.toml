@@ -1,4 +1,4 @@
-baseurl         = "https://taconeomental.github.io/mateocontenla/"
+baseurl         = "https://mateocontenla.js.org"
 theme           = "casper-two"
 languageCode    = "es-CL"
 paginate        = 3

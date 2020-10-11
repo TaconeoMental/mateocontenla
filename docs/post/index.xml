@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on </title>
-    <link>https://taconeomental.github.io/mateocontenla/post/</link>
+    <link>https://mateocontenla.js.org/post/</link>
     <description>Recent content in Blog on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-CL</language>
-    <lastBuildDate>Fri, 09 Oct 2020 00:58:10 -0300</lastBuildDate><atom:link href="https://taconeomental.github.io/mateocontenla/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Oct 2020 00:58:10 -0300</lastBuildDate><atom:link href="https://mateocontenla.js.org/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reply Cyber Security Challenge 2020 Write-ups</title>
-      <link>https://taconeomental.github.io/mateocontenla/post/reply-ctf-2020/</link>
+      <link>https://mateocontenla.js.org/post/reply-ctf-2020/</link>
       <pubDate>Sun, 11 Oct 2020 01:39:09 -0300</pubDate>
       
-      <guid>https://taconeomental.github.io/mateocontenla/post/reply-ctf-2020/</guid>
+      <guid>https://mateocontenla.js.org/post/reply-ctf-2020/</guid>
       <description>A few days ago on 09/10/2020 Reply held yet another Cyber Security challenge on their site. It was a jeopardy style CTF with 25 flags spread across 5 different categories and 24 hours to find them.
 The prizes for the competition looked great so my team and I registered immediately hoping for the best. We had seen past challenges that they&amp;rsquo;d organized and our hopes were really high.
 Anyway, this is my write-up for the challenges I managed to complete during the competition.</description>
@@ -20,10 +20,10 @@ Anyway, this is my write-up for the challenges I managed to complete during the 
     
     <item>
       <title>Primer post!</title>
-      <link>https://taconeomental.github.io/mateocontenla/post/primer-post/</link>
+      <link>https://mateocontenla.js.org/post/primer-post/</link>
       <pubDate>Tue, 06 Oct 2020 03:10:24 -0300</pubDate>
       
-      <guid>https://taconeomental.github.io/mateocontenla/post/primer-post/</guid>
+      <guid>https://mateocontenla.js.org/post/primer-post/</guid>
       <description>Bienvenida Pondría un lorem ipsum, pero prefiero escribir un poco de basura primero y luego llenar la página con texto en latín sin sentido. Usaré esta página para publicar &amp;ldquo;write-ups&amp;rdquo; de los CTF a los que asista y también como blog para publicar avances de mis proyectos personales.
 Para probar el markdown, acá hay un pedazo de código escrito en el lenguaje que estoy desarrollando y con un resalatado de syntax que no le corresponde porque todavía no escribo un parser.</description>
     </item>
