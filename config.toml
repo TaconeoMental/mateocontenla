@@ -1,0 +1,53 @@
+baseurl         = "https://taconeomental.github.io/mateocontenla/"
+theme           = "casper-two"
+languageCode    = "es-CL"
+paginate        = 3
+#SectionPagesMenu = "main"
+canonifyurls    = true
+publishDir = "docs"
+
+[params]
+  title       = "Mateo Contenla"
+  subtitle    = "Programmer, maker and pseudo designer"
+  description = "Personal blog"
+  cover = "static/img/bg.jpg"
+  sharingicons = false
+
+  twitterName = "MContenla"
+  githubName = "TaconeoMental"
+
+  showSupport = true
+
+  author = "MC"
+  authorAvatar = "static/img/icon.png"
+  authorLocation = "Santiago, Chile"
+  authorWebsite = "https://TaconeoMental.github.io"
+  authorDescription = "Me gusta hacer un poquito de todo"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/post/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "CTF"
+  url = "/categories/ctf/"
+  weight = 100
+
+[[menu.main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 99
+
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 97
