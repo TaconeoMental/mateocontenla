@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>es on </title>
+    <link>https://taconeomental.github.io/mateocontenla/tags/es/</link>
+    <description>Recent content in es on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-CL</language>
+    <lastBuildDate>Tue, 06 Oct 2020 03:10:24 -0300</lastBuildDate><atom:link href="https://taconeomental.github.io/mateocontenla/tags/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primer post!</title>
+      <link>https://taconeomental.github.io/mateocontenla/post/primer-post/</link>
+      <pubDate>Tue, 06 Oct 2020 03:10:24 -0300</pubDate>
+      
+      <guid>https://taconeomental.github.io/mateocontenla/post/primer-post/</guid>
+      <description>Bienvenida Pondría un lorem ipsum, pero prefiero escribir un poco de basura primero y luego llenar la página con texto en latín sin sentido. Usaré esta página para publicar &amp;ldquo;write-ups&amp;rdquo; de los CTF a los que asista y también como blog para publicar avances de mis proyectos personales.
+Para probar el markdown, acá hay un pedazo de código escrito en el lenguaje que estoy desarrollando y con un resalatado de syntax que no le corresponde porque todavía no escribo un parser.</description>
+    </item>
+    
+  </channel>
+</rss>
