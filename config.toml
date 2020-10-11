@@ -1,4 +1,4 @@
-baseurl         = "https://mateocontenla.js.org"
+baseurl         = "https://mateocontenla.js.org/"
 theme           = "casper-two"
 languageCode    = "es-CL"
 paginate        = 3
